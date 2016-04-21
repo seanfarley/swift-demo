@@ -1,12 +1,3 @@
-//
-//  main.swift
-//  demo
-//
-//  Created by Sean Farley on 4/18/16.
-//  Copyright © 2016 Sean Farley. All rights reserved.
-//
+import AVFoundation
 
-import Foundation
-
-print("Hello, World!")
-
+let r = CGR
